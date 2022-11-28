@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @k0136000
-- 👀 I’m interested in ... 3D printing, machine running, python etc...
+- 👀 I’m interested in ... 3D printing, machine running, back-end etc...
 - 🌱 I’m currently learning ... python and js
 <!---
 k0136000/k0136000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
